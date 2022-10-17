@@ -10,7 +10,7 @@ class Program
     public static void Main(string[] args)
     {
         string name;
-        int age;        
+        int age;
         Console.WriteLine("This program shows a persons name as well as their age");
         Console.WriteLine("\nEnter your first name.");
         name = Console.ReadLine();
